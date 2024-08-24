@@ -1,4 +1,4 @@
-# 🏃‍♀️💨 My Running Diary
+# My Running Diary 🏃‍♀️💨
 
 **Project Overview:**
 
