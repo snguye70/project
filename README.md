@@ -1,8 +1,5 @@
 # My Running Diary 🏃‍♀️💨
 
-**Video Demo:**
-https://youtu.be/crVhcDE49ZI
-
 **Project Overview:**
 
 "My running diary" is a data visualization project I created based on cleaning up my Strava data and chronicling my running activity over the past year. With p5.js, I created an interactive visualization incorporating journal entries, medication use, emotional reflections, and pictures to help me remember key moments. My running, inhaler use, emotions, and the power of community were all tracked within the scope of this project, which allowed me to gain deeper insights about the challenges of running alone as well as the power of community. To refine and deploy the project, I converted it to a Git page using Visual Studio Code.
